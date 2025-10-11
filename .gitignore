@@ -1,1 +1,85 @@
 .DS_Store
+
+# ==============================
+# PYTHON & ENVIRONMENTS
+# ==============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+.Python
+env/
+venv/
+ENV/
+.ipynb_checkpoints/
+lib/
+
+# ==============================
+# DATA FILES
+# ==============================
+# Original large datasets (don’t upload raw CSVs > 10MB)
+data/*.csv
+data/*.zip
+data/*.json
+data/*.xlsx
+data/*.tsv
+
+# If you want to keep small reference data, manually add them later with:
+# git add -f data/filename.csv
+
+# ==============================
+# OUTPUT FILES
+# ==============================
+*.ttl
+*.rdf
+*.nt
+*.jsonld
+*.html
+*.pdf
+*.png
+*.jpg
+*.svg
+*.graphml
+
+# ==============================
+# JUPYTER NOTEBOOKS
+# ==============================
+# Checkpoint folders
+.ipynb_checkpoints/
+# Hidden runtime files
+.jupyter/
+.DS_Store
+
+# ==============================
+# LOGS, CACHE & TEMP
+# ==============================
+*.log
+*.tmp
+*.bak
+*.swp
+*.out
+*.err
+.cache/
+__pycache__/
+*.pickle
+*.pkl
+
+# ==============================
+# IDE / OS SPECIFIC
+# ==============================
+# VSCode, JetBrains, Mac, etc.
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+
+# ==============================
+# CREDENTIALS / API KEYS (if ever used)
+# ==============================
+*.env
+.env*
+credentials.json
+secrets.json

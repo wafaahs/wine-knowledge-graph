@@ -1,0 +1,11 @@
+# Core dependencies
+pandas==2.2.3
+rdflib==7.2.1
+
+# Visualization
+networkx==3.4.2
+matplotlib==3.10.0
+pyvis==0.3.2
+
+# Utility
+numpy==2.1.3
