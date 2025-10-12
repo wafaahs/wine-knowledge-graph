@@ -6,6 +6,7 @@ rdflib==7.2.1
 networkx==3.4.2
 matplotlib==3.10.0
 pyvis==0.3.2
+SPARQLWrapper==2.0.0
 
 # Utility
 numpy==2.1.3
