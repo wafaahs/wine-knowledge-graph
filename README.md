@@ -5,6 +5,8 @@ This project demonstrates how to transform a **tabular dataset** into a **semant
 
 Using the popular [Wine Reviews dataset](https://www.kaggle.com/datasets/zynicide/wine-reviews), we model wines, regions, varieties, and reviews as interconnected entities — creating a graph that can be queried, visualized, and later integrated with **Large Language Models (LLMs)** for reasoning and insights.
 
+
+
 The repository is divided into two main tutorials:
 
 1. 🧩 **Notebook 1 — From CSV to RDF Knowledge Graph**  
