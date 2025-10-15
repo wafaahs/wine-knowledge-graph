@@ -19,7 +19,7 @@ The repository is divided into two main tutorials:
 
 ## 🍇 Dataset
 The project uses the **Wine Reviews dataset**, containing over 130,000 wine descriptions with metadata such as:
-- `country`, `province`, `region`, `variety`, `winery`, `points`, `price`, `description`, and `taster`.
+`country`, `province`, `region`, `variety`, `winery`, `points`, `price`, `description`, and `taster`.
 
 The dataset provides a rich foundation for modeling relationships such as:
 
